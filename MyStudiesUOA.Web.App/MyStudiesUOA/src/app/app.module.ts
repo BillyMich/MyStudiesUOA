@@ -11,7 +11,10 @@ import { RouterModule } from '@angular/router';
 import { NouisliderModule } from 'ng2-nouislider';
 import { MatIconModule } from '@angular/material/icon';
 import { AuthendticationTemplateComponent } from './Authentication/authendtication-template/authendtication-template.component';
-
+import { LoginComponent } from './Authentication/login/login.component';
+import { MatCardModule } from '@angular/material/card';
+import { FormsModule } from '@angular/forms';
+import { MatFormFieldModule } from '@angular/material/form-field';
 
 
 @NgModule({
@@ -19,7 +22,8 @@ import { AuthendticationTemplateComponent } from './Authentication/authendticati
     AppComponent,
     HomePageComponent,
     HomeTemplateComponent,
-    AuthendticationTemplateComponent
+    AuthendticationTemplateComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
@@ -28,7 +32,10 @@ import { AuthendticationTemplateComponent } from './Authentication/authendticati
     MatButtonModule,
     RouterModule,
     NouisliderModule,
-    MatIconModule
+    MatIconModule,
+    MatCardModule,
+    FormsModule,
+    MatFormFieldModule
   ],
   providers: [],
   bootstrap: [AppComponent]

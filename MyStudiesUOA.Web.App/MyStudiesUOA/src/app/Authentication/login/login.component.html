@@ -1,0 +1,27 @@
+<div class="centered" style="background-color: #fdfdfd;">
+    <div>
+  
+      <mat-card>
+        <form (ngSubmit)="onSubmit()">
+          <mat-card-header>
+            <mat-card-title>Welcome back</mat-card-title>
+            <mat-card-subtitle>Please login</mat-card-subtitle>
+          </mat-card-header>
+          <mat-form-field appearance="outline">
+            <mat-label>Email</mat-label>
+            <input type="email" [(ngModel)]="user.Email" name="Email" required matInput>
+            <mat-icon matSuffix>mail_outlined</mat-icon>
+          </mat-form-field>
+          <mat-form-field appearance="outline">
+            <mat-label>Password</mat-label>
+            <input type="password" [(ngModel)]="user.Password" name="Password" required matInput>
+            <mat-icon matSuffix>key_outlined</mat-icon>
+          </mat-form-field>
+          <br>
+          <mat-card-actions align="end">
+            <button type="submit" mat-flat-button color="primary">Login</button>
+          </mat-card-actions>
+        </form>
+      </mat-card>
+    </div>
+  </div>
