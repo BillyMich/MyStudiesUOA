@@ -88,6 +88,42 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "MyStudiesUOA.BusinessLogicLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MyStudiesUOA.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyStudiesUOA.BusinessLogicLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStudiesUOA.BusinessLogicLayer.dll": {}
+        }
+      },
+      "MyStudiesUOA.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyStudiesUOA.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStudiesUOA.Domain.dll": {}
+        }
+      },
+      "MyStudiesUOA.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MyStudiesUOA.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyStudiesUOA.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStudiesUOA.Repository.dll": {}
+        }
       }
     }
   },
@@ -216,10 +252,26 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "MyStudiesUOA.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "path": "../MyStudiesUOA.BusinessLogicLayer/MyStudiesUOA.BusinessLogicLayer.csproj",
+      "msbuildProject": "../MyStudiesUOA.BusinessLogicLayer/MyStudiesUOA.BusinessLogicLayer.csproj"
+    },
+    "MyStudiesUOA.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MyStudiesUOA.Domain/MyStudiesUOA.Domain.csproj",
+      "msbuildProject": "../MyStudiesUOA.Domain/MyStudiesUOA.Domain.csproj"
+    },
+    "MyStudiesUOA.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MyStudiesUOA.Repository/MyStudiesUOA.Repository.csproj",
+      "msbuildProject": "../MyStudiesUOA.Repository/MyStudiesUOA.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MyStudiesUOA.BusinessLogicLayer >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -255,7 +307,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Git\\MyStudiesUOA\\MyStudiesUOA.Web.Api\\MyStudiesUOA.Web.Api\\MyStudiesUOA.BusinessLogicLayer\\MyStudiesUOA.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Git\\MyStudiesUOA\\MyStudiesUOA.Web.Api\\MyStudiesUOA.Web.Api\\MyStudiesUOA.BusinessLogicLayer\\MyStudiesUOA.BusinessLogicLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Constants\" />
+    <Folder Include="Validations\" />
+  </ItemGroup>
+
 </Project>

@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MyStudiesUOA.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyStudiesUOA.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStudiesUOA.Domain.dll": {}
+        }
+      },
+      "MyStudiesUOA.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MyStudiesUOA.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyStudiesUOA.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStudiesUOA.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyStudiesUOA.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MyStudiesUOA.Domain/MyStudiesUOA.Domain.csproj",
+      "msbuildProject": "../MyStudiesUOA.Domain/MyStudiesUOA.Domain.csproj"
+    },
+    "MyStudiesUOA.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MyStudiesUOA.Repository/MyStudiesUOA.Repository.csproj",
+      "msbuildProject": "../MyStudiesUOA.Repository/MyStudiesUOA.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MyStudiesUOA.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Super\\.nuget\\packages\\": {},
@@ -39,7 +76,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Git\\MyStudiesUOA\\MyStudiesUOA.Web.Api\\MyStudiesUOA.Web.Api\\MyStudiesUOA.Repository\\MyStudiesUOA.Repository.csproj": {
+              "projectPath": "C:\\Git\\MyStudiesUOA\\MyStudiesUOA.Web.Api\\MyStudiesUOA.Web.Api\\MyStudiesUOA.Repository\\MyStudiesUOA.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

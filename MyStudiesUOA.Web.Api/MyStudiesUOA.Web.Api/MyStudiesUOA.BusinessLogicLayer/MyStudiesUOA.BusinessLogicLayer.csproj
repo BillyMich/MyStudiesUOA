@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyStudiesUOA.Repository\MyStudiesUOA.Repository.csproj" />
+  </ItemGroup>
+
 </Project>

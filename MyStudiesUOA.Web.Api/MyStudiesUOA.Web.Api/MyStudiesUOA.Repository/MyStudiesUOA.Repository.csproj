@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Dto\" />
+    <Folder Include="ReadCommands\" />
+    <Folder Include="WriteCommands\InsertCommands\" />
+    <Folder Include="WriteCommands\UpdateCommands\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyStudiesUOA.Domain\MyStudiesUOA.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -15,6 +15,7 @@ import { LoginComponent } from './Authentication/login/login.component';
 import { MatCardModule } from '@angular/material/card';
 import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
+import { StudentTemplateComponent } from './Student/student-template/student-template.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { MatFormFieldModule } from '@angular/material/form-field';
     HomePageComponent,
     HomeTemplateComponent,
     AuthendticationTemplateComponent,
-    LoginComponent
+    LoginComponent,
+    StudentTemplateComponent
   ],
   imports: [
     BrowserModule,
