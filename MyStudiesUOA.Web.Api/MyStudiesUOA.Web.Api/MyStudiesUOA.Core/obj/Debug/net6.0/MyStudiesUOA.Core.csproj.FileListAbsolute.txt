@@ -1,0 +1,12 @@
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\bin\Debug\net6.0\MyStudiesUOA.Core.deps.json
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\bin\Debug\net6.0\MyStudiesUOA.Core.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\bin\Debug\net6.0\MyStudiesUOA.Core.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\MyStudiesUOA.Core.csproj.AssemblyReference.cache
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\MyStudiesUOA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\MyStudiesUOA.Core.AssemblyInfoInputs.cache
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\MyStudiesUOA.Core.AssemblyInfo.cs
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\MyStudiesUOA.Core.csproj.CoreCompileInputs.cache
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\MyStudiesUOA.Core.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\refint\MyStudiesUOA.Core.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\MyStudiesUOA.Core.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Core\obj\Debug\net6.0\ref\MyStudiesUOA.Core.dll

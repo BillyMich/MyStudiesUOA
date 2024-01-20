@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyStudiesUOA.Repository/1.0.0": {
+        "dependencies": {
+          "MyStudiesUOA.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyStudiesUOA.Repository.dll": {}
+        }
+      },
+      "MyStudiesUOA.Domain/1.0.0": {
+        "runtime": {
+          "MyStudiesUOA.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyStudiesUOA.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyStudiesUOA.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

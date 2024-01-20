@@ -1,0 +1,15 @@
+html, body {
+    overflow: hidden; /* This will prevent scrolling */
+  }
+  
+    .bgimg {
+      background-image: url('../../../Images/studnettemplate.png');
+      background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* This will prevent scrolling */
+    }

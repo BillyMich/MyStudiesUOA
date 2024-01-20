@@ -1,0 +1,17 @@
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\bin\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.deps.json
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\bin\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\bin\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\bin\Debug\net6.0\MyStudiesUOA.Domain.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\bin\Debug\net6.0\MyStudiesUOA.Repository.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\bin\Debug\net6.0\MyStudiesUOA.Repository.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\bin\Debug\net6.0\MyStudiesUOA.Domain.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.AssemblyInfo.cs
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.csproj.CopyComplete
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\refint\MyStudiesUOA.BusinessLogicLayer.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.BusinessLogicLayer\obj\Debug\net6.0\ref\MyStudiesUOA.BusinessLogicLayer.dll

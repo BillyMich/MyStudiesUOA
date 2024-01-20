@@ -30,3 +30,17 @@ C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.A
 C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\obj\Debug\net6.0\MyStudiesUOA.Web.Api.pdb
 C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\obj\Debug\net6.0\MyStudiesUOA.Web.Api.genruntimeconfig.cache
 C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\obj\Debug\net6.0\ref\MyStudiesUOA.Web.Api.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\MyStudiesUOA.Domain.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\MyStudiesUOA.Repository.dll
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\MyStudiesUOA.BusinessLogicLayer.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\MyStudiesUOA.Domain.pdb
+C:\Git\MyStudiesUOA\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\MyStudiesUOA.Web.Api\bin\Debug\net6.0\MyStudiesUOA.Repository.pdb
