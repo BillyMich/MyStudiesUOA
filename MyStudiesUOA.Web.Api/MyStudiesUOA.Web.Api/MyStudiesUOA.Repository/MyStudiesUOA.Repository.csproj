@@ -8,9 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Dto\" />
+    <Folder Include="Enums\" />
     <Folder Include="ReadCommands\" />
-    <Folder Include="WriteCommands\InsertCommands\" />
-    <Folder Include="WriteCommands\UpdateCommands\" />
   </ItemGroup>
 
   <ItemGroup>

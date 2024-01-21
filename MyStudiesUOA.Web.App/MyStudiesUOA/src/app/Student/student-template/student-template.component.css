@@ -13,3 +13,47 @@ html, body {
     padding: 0;
     overflow: hidden; /* This will prevent scrolling */
     }
+
+    .logo {
+      display: inline;
+      width: 270px;
+      margin-left: 5px;
+      margin-top: 10px;
+  }
+  
+  .logo-min {
+      display: none;
+      width: 73px;
+      margin-left: 5px;
+      margin-top: 10px;
+  }
+  
+  
+  .login {
+      margin: 0px 8px;
+  }
+  
+  .navbar {
+      margin: auto;
+      width: 100%;
+      max-width: 1600px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  
+  mat-toolbar {
+      background-color: #ffffff;
+      height: 58px;
+  }
+  
+  
+  @media only screen and (max-width: 575px) {
+      .logo {
+          display: none;
+      }
+  
+      .logo-min {
+          display: inline;
+      }
+  }

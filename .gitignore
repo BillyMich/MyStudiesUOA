@@ -5,3 +5,14 @@
 *.vsidx
 *.vsidx
 MyStudiesUOA.Web.Api/MyStudiesUOA.Web.Api/.vs/MyStudiesUOA.Web.Api/v17/.suo
+*.cache
+*.cache
+*.cache
+.vs/MyStudiesUOA/v17/.wsuo
+.vs/VSWorkspaceState.json
+MyStudiesUOA.Web.Api/MyStudiesUOA.Web.Api/.vs/MyStudiesUOA.Web.Api/DesignTimeBuild/.dtbcache.v2
+MyStudiesUOA.Web.Api/MyStudiesUOA.Web.Api/.vs/MyStudiesUOA.Web.Api/v17/.futdcache.v2
+MyStudiesUOA.Web.Api/MyStudiesUOA.Web.Api/.vs/ProjectEvaluation/mystudiesuoa.web.api.metadata.v6.1
+*.1
+MyStudiesUOA.Web.Api/MyStudiesUOA.Web.Api/.vs/ProjectEvaluation/mystudiesuoa.web.api.projects.v6.1
+MyStudiesUOA.Web.Api/MyStudiesUOA.Web.Api/MyStudiesUOA.Web.Api/obj/Debug/net6.0/MyStudiesUOA.Web.Api.csproj.AssemblyReference.cache

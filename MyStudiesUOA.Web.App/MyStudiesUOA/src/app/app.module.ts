@@ -17,6 +17,7 @@ import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { StudentTemplateComponent } from './Student/student-template/student-template.component';
 import { StudentDashboardComponent } from './Student/student-dashboard/student-dashboard.component';
+import { MatToolbarModule } from '@angular/material/toolbar';
 
 
 @NgModule({
@@ -39,7 +40,8 @@ import { StudentDashboardComponent } from './Student/student-dashboard/student-d
     MatIconModule,
     MatCardModule,
     FormsModule,
-    MatFormFieldModule
+    MatFormFieldModule,
+    MatToolbarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
